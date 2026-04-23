@@ -18,8 +18,6 @@ icon = "fa fa-bug"
 parent = "Dashboard"
 ```
 
-![image-20260327031248829](.\image-20260327031248829.png)
-
 ### Step 2: Upload the Malicious File
 
 Visit the target site's module update feature and upload the crafted ZIP file:
@@ -31,7 +29,7 @@ Content-Type: multipart/form-data
 [Upload exploit.zip file]
 ```
 
-![](.\image-20260327233218909.png)
+![](image-20260327233218909.png)
 
 ### Step 3: Execute Commands
 
