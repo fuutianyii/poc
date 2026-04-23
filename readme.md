@@ -18,7 +18,7 @@ icon = "fa fa-bug"
 parent = "Dashboard"
 ```
 
-![image-20260327031248829](C:\Users\FTY\AppData\Roaming\Typora\typora-user-images\image-20260327031248829.png)
+![image-20260327031248829](.\image-20260327031248829.png)
 
 ### Step 2: Upload the Malicious File
 
@@ -31,7 +31,7 @@ Content-Type: multipart/form-data
 [Upload exploit.zip file]
 ```
 
-![](C:\Users\FTY\Desktop\image-20260327233218909.png)
+![](.\image-20260327233218909.png)
 
 ### Step 3: Execute Commands
 
