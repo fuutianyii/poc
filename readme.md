@@ -1,9 +1,15 @@
-| Field                                  | Details                                                      |
-| -------------------------------------- | ------------------------------------------------------------ |
-| Vulnerability Type                     | Arbitrary File Upload leading to Remote Code Execution (RCE) |
-| Affected Versions                      | <= 2.10.x                                                    |
-| Vulnerable File                        | `modules/aggiornamenti/upload_modules.php`                   |
-| Prerequisites / Exploitation Condition | Backend/Admin Login Required                                 |
+Product Information:
+Product Name: OpenSTAManager
+Vendor: DevCode (https://devcode.it/)
+Project Homepage: https://openstamanager.com/
+GitHub Repository: https://github.com/devcode-it/openstamanager
+Description: OpenSTAManager is an open-source Italian technical support and billing management software developed in PHP, providing complete CRM functionality including customer management, invoice generation, technical support ticketing, and module/plugin update system.
+Vulnerability Summary:
+CVE ID: CVE-2026-38751
+Vulnerability Type: Arbitrary File Upload leading to Remote Code Execution (RCE)
+Affected Versions: <= 2.10.x
+Vulnerable File: modules/aggiornamenti/upload_modules.php
+Prerequisites: Backend/Admin Login Required
 
 
 ---
