@@ -1,4 +1,10 @@
- Here is the English translation:
+| Field                                  | Details                                                      |
+| -------------------------------------- | ------------------------------------------------------------ |
+| Vulnerability Type                     | Arbitrary File Upload leading to Remote Code Execution (RCE) |
+| Affected Versions                      | <= 2.10.x                                                    |
+| Vulnerable File                        | `modules/aggiornamenti/upload_modules.php`                   |
+| Prerequisites / Exploitation Condition | Backend/Admin Login Required                                 |
+
 
 ---
 
